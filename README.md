@@ -29,6 +29,7 @@ This is a simple implementation of the classic **Tic Tac Toe** game using **Pyth
 3. Open a terminal or command prompt and run the script:
 
 Player X's turn. Enter position (1-9):
+
 1 | 2 | 3
 ---------
 4 | 5 | 6
