@@ -35,7 +35,7 @@ Player X's turn. Enter position (1-9):
 4 | 5 | 6
 ---------
 7 | 8 | 9
-
+---------
 > 5
 
 Player O's turn...
